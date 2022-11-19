@@ -1,1 +1,1 @@
-# qacademy_cumcumber_turma6_eduardo
+# qacademy_cucumber_turma6_eduardo
